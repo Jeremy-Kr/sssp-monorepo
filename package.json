@@ -1,6 +1,7 @@
 {
   "name": "sssp-monorepo",
   "private": true,
+  "description": "Monorepo for BMSSP/SSSP SDK and related apps (benchmarks, demos).",
   "license": "Apache-2.0",
   "scripts": {
     "build": "turbo run build",

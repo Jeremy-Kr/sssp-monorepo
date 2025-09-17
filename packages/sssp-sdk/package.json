@@ -2,6 +2,7 @@
   "name": "@jeremy-kr/sssp-sdk",
   "version": "0.0.1",
   "private": false,
+  "description": "TypeScript SDK for Single-Source and Bounded Multiple Source Shortest Path (SSSP/BMSSP) algorithms. Ships with Dijkstra (O((n+m) log n)), designed for modern graph apps and research.",
   "license": "Apache-2.0",
   "type": "module",
   "exports": {
